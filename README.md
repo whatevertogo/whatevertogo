@@ -22,4 +22,3 @@ Writing in public soon.
 
 - Email: [1879483647@qq.com](mailto:1879483647@qq.com)
 - GitHub: [github.com/whatevertogo](https://github.com/whatevertogo)
-- Website: [whatevertogo.github.io](https://whatevertogo.github.io)
