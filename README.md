@@ -1,6 +1,6 @@
 <div align="center">
   <h1>whatevertogo</h1>
-  <p><strong>Building AstrBot integrations, bot-side tooling, and developer workflows that stay practical.</strong></p>
+  <p><strong>Building Astrcode</strong></p>
   <p>还没想好喵</p>
 </div>
 
